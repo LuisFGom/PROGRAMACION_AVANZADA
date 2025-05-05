@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\Metodos y Listas\Metodos y Listas\bin\Debug\Metodos y Listas.exe.config
+C:\Users\User\source\repos\Metodos y Listas\Metodos y Listas\bin\Debug\Metodos y Listas.exe
+C:\Users\User\source\repos\Metodos y Listas\Metodos y Listas\bin\Debug\Metodos y Listas.pdb
+C:\Users\User\source\repos\Metodos y Listas\Metodos y Listas\obj\Debug\Metodos y Listas.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Metodos y Listas\Metodos y Listas\obj\Debug\Metodos_y_Listas.Form1.resources
+C:\Users\User\source\repos\Metodos y Listas\Metodos y Listas\obj\Debug\Metodos_y_Listas.Properties.Resources.resources
+C:\Users\User\source\repos\Metodos y Listas\Metodos y Listas\obj\Debug\Metodos y Listas.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Metodos y Listas\Metodos y Listas\obj\Debug\Metodos y Listas.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Metodos y Listas\Metodos y Listas\obj\Debug\Metodos y Listas.exe
+C:\Users\User\source\repos\Metodos y Listas\Metodos y Listas\obj\Debug\Metodos y Listas.pdb
