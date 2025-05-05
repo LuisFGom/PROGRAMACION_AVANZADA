@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\ExcepcionesEjemplo\ExcepcionesEjemplo\bin\Debug\ExcepcionesEjemplo.exe.config
+C:\Users\User\source\repos\ExcepcionesEjemplo\ExcepcionesEjemplo\bin\Debug\ExcepcionesEjemplo.exe
+C:\Users\User\source\repos\ExcepcionesEjemplo\ExcepcionesEjemplo\bin\Debug\ExcepcionesEjemplo.pdb
+C:\Users\User\source\repos\ExcepcionesEjemplo\ExcepcionesEjemplo\obj\Debug\ExcepcionesEjemplo.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\ExcepcionesEjemplo\ExcepcionesEjemplo\obj\Debug\ExcepcionesEjemplo.Form1.resources
+C:\Users\User\source\repos\ExcepcionesEjemplo\ExcepcionesEjemplo\obj\Debug\ExcepcionesEjemplo.Properties.Resources.resources
+C:\Users\User\source\repos\ExcepcionesEjemplo\ExcepcionesEjemplo\obj\Debug\ExcepcionesEjemplo.csproj.GenerateResource.cache
+C:\Users\User\source\repos\ExcepcionesEjemplo\ExcepcionesEjemplo\obj\Debug\ExcepcionesEjemplo.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ExcepcionesEjemplo\ExcepcionesEjemplo\obj\Debug\ExcepcionesEjemplo.exe
+C:\Users\User\source\repos\ExcepcionesEjemplo\ExcepcionesEjemplo\obj\Debug\ExcepcionesEjemplo.pdb
