@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\Calculadora Inteligente\Calculadora Inteligente\bin\Debug\Calculadora Inteligente.exe.config
+C:\Users\User\source\repos\Calculadora Inteligente\Calculadora Inteligente\bin\Debug\Calculadora Inteligente.exe
+C:\Users\User\source\repos\Calculadora Inteligente\Calculadora Inteligente\bin\Debug\Calculadora Inteligente.pdb
+C:\Users\User\source\repos\Calculadora Inteligente\Calculadora Inteligente\obj\Debug\Calculadora Inteligente.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Calculadora Inteligente\Calculadora Inteligente\obj\Debug\Calculadora_Inteligente.Properties.Resources.resources
+C:\Users\User\source\repos\Calculadora Inteligente\Calculadora Inteligente\obj\Debug\Calculadora Inteligente.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Calculadora Inteligente\Calculadora Inteligente\obj\Debug\Calculadora Inteligente.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Calculadora Inteligente\Calculadora Inteligente\obj\Debug\Calculadora Inteligente.exe
+C:\Users\User\source\repos\Calculadora Inteligente\Calculadora Inteligente\obj\Debug\Calculadora Inteligente.pdb
+C:\Users\User\source\repos\Calculadora Inteligente\Calculadora Inteligente\obj\Debug\Calculadora_Inteligente.Calculadora.resources
