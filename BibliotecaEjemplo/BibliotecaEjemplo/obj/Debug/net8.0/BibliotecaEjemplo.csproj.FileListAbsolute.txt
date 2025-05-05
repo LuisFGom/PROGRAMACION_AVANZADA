@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\BibliotecaEjemplo\BibliotecaEjemplo\bin\Debug\net8.0\BibliotecaEjemplo.deps.json
+C:\Users\User\source\repos\BibliotecaEjemplo\BibliotecaEjemplo\bin\Debug\net8.0\BibliotecaEjemplo.dll
+C:\Users\User\source\repos\BibliotecaEjemplo\BibliotecaEjemplo\bin\Debug\net8.0\BibliotecaEjemplo.pdb
+C:\Users\User\source\repos\BibliotecaEjemplo\BibliotecaEjemplo\obj\Debug\net8.0\BibliotecaEjemplo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\BibliotecaEjemplo\BibliotecaEjemplo\obj\Debug\net8.0\BibliotecaEjemplo.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\BibliotecaEjemplo\BibliotecaEjemplo\obj\Debug\net8.0\BibliotecaEjemplo.AssemblyInfo.cs
+C:\Users\User\source\repos\BibliotecaEjemplo\BibliotecaEjemplo\obj\Debug\net8.0\BibliotecaEjemplo.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\BibliotecaEjemplo\BibliotecaEjemplo\obj\Debug\net8.0\BibliotecaEjemplo.dll
+C:\Users\User\source\repos\BibliotecaEjemplo\BibliotecaEjemplo\obj\Debug\net8.0\refint\BibliotecaEjemplo.dll
+C:\Users\User\source\repos\BibliotecaEjemplo\BibliotecaEjemplo\obj\Debug\net8.0\BibliotecaEjemplo.pdb
+C:\Users\User\source\repos\BibliotecaEjemplo\BibliotecaEjemplo\obj\Debug\net8.0\ref\BibliotecaEjemplo.dll

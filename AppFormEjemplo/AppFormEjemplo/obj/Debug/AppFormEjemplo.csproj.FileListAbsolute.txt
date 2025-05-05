@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\AppFormEjemplo\AppFormEjemplo\obj\Debug\AppFormEjemplo.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\AppFormEjemplo\AppFormEjemplo\obj\Debug\AppFormEjemplo.Form1.resources
+C:\Users\User\source\repos\AppFormEjemplo\AppFormEjemplo\obj\Debug\AppFormEjemplo.Properties.Resources.resources
+C:\Users\User\source\repos\AppFormEjemplo\AppFormEjemplo\obj\Debug\AppFormEjemplo.csproj.GenerateResource.cache
+C:\Users\User\source\repos\AppFormEjemplo\AppFormEjemplo\obj\Debug\AppFormEjemplo.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\AppFormEjemplo\AppFormEjemplo\bin\Debug\AppFormEjemplo.exe.config
+C:\Users\User\source\repos\AppFormEjemplo\AppFormEjemplo\bin\Debug\AppFormEjemplo.exe
+C:\Users\User\source\repos\AppFormEjemplo\AppFormEjemplo\bin\Debug\AppFormEjemplo.pdb
+C:\Users\User\source\repos\AppFormEjemplo\AppFormEjemplo\bin\Debug\EjemploBiblioteca2.dll
+C:\Users\User\source\repos\AppFormEjemplo\AppFormEjemplo\bin\Debug\EjemploBiblioteca2.pdb
+C:\Users\User\source\repos\AppFormEjemplo\AppFormEjemplo\obj\Debug\AppFormE.B210E8A9.Up2Date
+C:\Users\User\source\repos\AppFormEjemplo\AppFormEjemplo\obj\Debug\AppFormEjemplo.exe
+C:\Users\User\source\repos\AppFormEjemplo\AppFormEjemplo\obj\Debug\AppFormEjemplo.pdb
