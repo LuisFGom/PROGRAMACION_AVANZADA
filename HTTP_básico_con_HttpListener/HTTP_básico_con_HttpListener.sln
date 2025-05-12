@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35919.96 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HTTP_básico_con_HttpListener", "HTTP_básico_con_HttpListener\HTTP_básico_con_HttpListener.csproj", "{B677621E-D6A1-418A-90EE-A6917E215D18}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cliente_HTTP_con_HttpClient", "Cliente_HTTP_con_HttpClient\Cliente_HTTP_con_HttpClient.csproj", "{5C7E055F-C8BA-4AF6-8B8B-C97454A24146}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B677621E-D6A1-418A-90EE-A6917E215D18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B677621E-D6A1-418A-90EE-A6917E215D18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B677621E-D6A1-418A-90EE-A6917E215D18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B677621E-D6A1-418A-90EE-A6917E215D18}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C7E055F-C8BA-4AF6-8B8B-C97454A24146}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C7E055F-C8BA-4AF6-8B8B-C97454A24146}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C7E055F-C8BA-4AF6-8B8B-C97454A24146}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C7E055F-C8BA-4AF6-8B8B-C97454A24146}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {51624824-4972-4349-8784-19D26262A479}
+	EndGlobalSection
+EndGlobal

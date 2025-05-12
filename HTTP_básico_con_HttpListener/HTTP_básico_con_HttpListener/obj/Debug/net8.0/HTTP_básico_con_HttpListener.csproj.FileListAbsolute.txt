@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\HTTP_básico_con_HttpListener\HTTP_básico_con_HttpListener\bin\Debug\net8.0\HTTP_básico_con_HttpListener.exe
+C:\Users\User\source\repos\HTTP_básico_con_HttpListener\HTTP_básico_con_HttpListener\bin\Debug\net8.0\HTTP_básico_con_HttpListener.deps.json
+C:\Users\User\source\repos\HTTP_básico_con_HttpListener\HTTP_básico_con_HttpListener\bin\Debug\net8.0\HTTP_básico_con_HttpListener.runtimeconfig.json
+C:\Users\User\source\repos\HTTP_básico_con_HttpListener\HTTP_básico_con_HttpListener\bin\Debug\net8.0\HTTP_básico_con_HttpListener.dll
+C:\Users\User\source\repos\HTTP_básico_con_HttpListener\HTTP_básico_con_HttpListener\bin\Debug\net8.0\HTTP_básico_con_HttpListener.pdb
+C:\Users\User\source\repos\HTTP_básico_con_HttpListener\HTTP_básico_con_HttpListener\obj\Debug\net8.0\HTTP_básico_con_HttpListener.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\HTTP_básico_con_HttpListener\HTTP_básico_con_HttpListener\obj\Debug\net8.0\HTTP_básico_con_HttpListener.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\HTTP_básico_con_HttpListener\HTTP_básico_con_HttpListener\obj\Debug\net8.0\HTTP_básico_con_HttpListener.AssemblyInfo.cs
+C:\Users\User\source\repos\HTTP_básico_con_HttpListener\HTTP_básico_con_HttpListener\obj\Debug\net8.0\HTTP_básico_con_HttpListener.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\HTTP_básico_con_HttpListener\HTTP_básico_con_HttpListener\obj\Debug\net8.0\HTTP_básico_con_HttpListener.dll
+C:\Users\User\source\repos\HTTP_básico_con_HttpListener\HTTP_básico_con_HttpListener\obj\Debug\net8.0\refint\HTTP_básico_con_HttpListener.dll
+C:\Users\User\source\repos\HTTP_básico_con_HttpListener\HTTP_básico_con_HttpListener\obj\Debug\net8.0\HTTP_básico_con_HttpListener.pdb
+C:\Users\User\source\repos\HTTP_básico_con_HttpListener\HTTP_básico_con_HttpListener\obj\Debug\net8.0\HTTP_básico_con_HttpListener.genruntimeconfig.cache
+C:\Users\User\source\repos\HTTP_básico_con_HttpListener\HTTP_básico_con_HttpListener\obj\Debug\net8.0\ref\HTTP_básico_con_HttpListener.dll

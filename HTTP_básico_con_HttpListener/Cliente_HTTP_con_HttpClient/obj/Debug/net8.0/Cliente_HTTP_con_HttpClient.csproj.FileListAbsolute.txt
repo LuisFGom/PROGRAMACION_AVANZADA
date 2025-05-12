@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\HTTP_básico_con_HttpListener\Cliente_HTTP_con_HttpClient\bin\Debug\net8.0\Cliente_HTTP_con_HttpClient.exe
+C:\Users\User\source\repos\HTTP_básico_con_HttpListener\Cliente_HTTP_con_HttpClient\bin\Debug\net8.0\Cliente_HTTP_con_HttpClient.deps.json
+C:\Users\User\source\repos\HTTP_básico_con_HttpListener\Cliente_HTTP_con_HttpClient\bin\Debug\net8.0\Cliente_HTTP_con_HttpClient.runtimeconfig.json
+C:\Users\User\source\repos\HTTP_básico_con_HttpListener\Cliente_HTTP_con_HttpClient\bin\Debug\net8.0\Cliente_HTTP_con_HttpClient.dll
+C:\Users\User\source\repos\HTTP_básico_con_HttpListener\Cliente_HTTP_con_HttpClient\bin\Debug\net8.0\Cliente_HTTP_con_HttpClient.pdb
+C:\Users\User\source\repos\HTTP_básico_con_HttpListener\Cliente_HTTP_con_HttpClient\obj\Debug\net8.0\Cliente_HTTP_con_HttpClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\HTTP_básico_con_HttpListener\Cliente_HTTP_con_HttpClient\obj\Debug\net8.0\Cliente_HTTP_con_HttpClient.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\HTTP_básico_con_HttpListener\Cliente_HTTP_con_HttpClient\obj\Debug\net8.0\Cliente_HTTP_con_HttpClient.AssemblyInfo.cs
+C:\Users\User\source\repos\HTTP_básico_con_HttpListener\Cliente_HTTP_con_HttpClient\obj\Debug\net8.0\Cliente_HTTP_con_HttpClient.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\HTTP_básico_con_HttpListener\Cliente_HTTP_con_HttpClient\obj\Debug\net8.0\Cliente_HTTP_con_HttpClient.dll
+C:\Users\User\source\repos\HTTP_básico_con_HttpListener\Cliente_HTTP_con_HttpClient\obj\Debug\net8.0\refint\Cliente_HTTP_con_HttpClient.dll
+C:\Users\User\source\repos\HTTP_básico_con_HttpListener\Cliente_HTTP_con_HttpClient\obj\Debug\net8.0\Cliente_HTTP_con_HttpClient.pdb
+C:\Users\User\source\repos\HTTP_básico_con_HttpListener\Cliente_HTTP_con_HttpClient\obj\Debug\net8.0\Cliente_HTTP_con_HttpClient.genruntimeconfig.cache
+C:\Users\User\source\repos\HTTP_básico_con_HttpListener\Cliente_HTTP_con_HttpClient\obj\Debug\net8.0\ref\Cliente_HTTP_con_HttpClient.dll
