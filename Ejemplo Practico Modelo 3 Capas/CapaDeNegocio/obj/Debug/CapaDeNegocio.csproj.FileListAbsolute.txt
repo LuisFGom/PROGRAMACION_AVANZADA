@@ -1,0 +1,9 @@
+C:\Users\User\source\repos\Ejemplo Practico Modelo 3 Capas\CapaDeNegocio\bin\Debug\CapaDeNegocio.dll
+C:\Users\User\source\repos\Ejemplo Practico Modelo 3 Capas\CapaDeNegocio\bin\Debug\CapaDeNegocio.pdb
+C:\Users\User\source\repos\Ejemplo Practico Modelo 3 Capas\CapaDeNegocio\bin\Debug\CapaDeAccesoADatos.dll
+C:\Users\User\source\repos\Ejemplo Practico Modelo 3 Capas\CapaDeNegocio\bin\Debug\CapaDeAccesoADatos.pdb
+C:\Users\User\source\repos\Ejemplo Practico Modelo 3 Capas\CapaDeNegocio\obj\Debug\CapaDeNegocio.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Ejemplo Practico Modelo 3 Capas\CapaDeNegocio\obj\Debug\CapaDeNegocio.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Ejemplo Practico Modelo 3 Capas\CapaDeNegocio\obj\Debug\CapaDeNe.701FBC6E.Up2Date
+C:\Users\User\source\repos\Ejemplo Practico Modelo 3 Capas\CapaDeNegocio\obj\Debug\CapaDeNegocio.dll
+C:\Users\User\source\repos\Ejemplo Practico Modelo 3 Capas\CapaDeNegocio\obj\Debug\CapaDeNegocio.pdb

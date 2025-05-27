@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\Ejemplo Practico Modelo 3 Capas\CapaDePresentacion\bin\Debug\CapaDePresentacion.exe.config
+C:\Users\User\source\repos\Ejemplo Practico Modelo 3 Capas\CapaDePresentacion\bin\Debug\CapaDePresentacion.exe
+C:\Users\User\source\repos\Ejemplo Practico Modelo 3 Capas\CapaDePresentacion\bin\Debug\CapaDePresentacion.pdb
+C:\Users\User\source\repos\Ejemplo Practico Modelo 3 Capas\CapaDePresentacion\bin\Debug\CapaDeAccesoADatos.dll
+C:\Users\User\source\repos\Ejemplo Practico Modelo 3 Capas\CapaDePresentacion\bin\Debug\CapaDeNegocio.dll
+C:\Users\User\source\repos\Ejemplo Practico Modelo 3 Capas\CapaDePresentacion\bin\Debug\CapaDeAccesoADatos.pdb
+C:\Users\User\source\repos\Ejemplo Practico Modelo 3 Capas\CapaDePresentacion\bin\Debug\CapaDeNegocio.pdb
+C:\Users\User\source\repos\Ejemplo Practico Modelo 3 Capas\CapaDePresentacion\obj\Debug\CapaDePresentacion.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Ejemplo Practico Modelo 3 Capas\CapaDePresentacion\obj\Debug\CapaDePresentacion.Properties.Resources.resources
+C:\Users\User\source\repos\Ejemplo Practico Modelo 3 Capas\CapaDePresentacion\obj\Debug\CapaDePresentacion.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Ejemplo Practico Modelo 3 Capas\CapaDePresentacion\obj\Debug\CapaDePresentacion.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Ejemplo Practico Modelo 3 Capas\CapaDePresentacion\obj\Debug\CapaDePr.C47967BF.Up2Date
+C:\Users\User\source\repos\Ejemplo Practico Modelo 3 Capas\CapaDePresentacion\obj\Debug\CapaDePresentacion.exe
+C:\Users\User\source\repos\Ejemplo Practico Modelo 3 Capas\CapaDePresentacion\obj\Debug\CapaDePresentacion.pdb
+C:\Users\User\source\repos\Ejemplo Practico Modelo 3 Capas\CapaDePresentacion\obj\Debug\CapaDePresentacion.Form1.resources

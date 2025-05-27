@@ -1,0 +1,6 @@
+C:\Users\User\source\repos\Ejemplo Practico Modelo 3 Capas\CapaDeAccesoADatos\bin\Debug\CapaDeAccesoADatos.dll
+C:\Users\User\source\repos\Ejemplo Practico Modelo 3 Capas\CapaDeAccesoADatos\bin\Debug\CapaDeAccesoADatos.pdb
+C:\Users\User\source\repos\Ejemplo Practico Modelo 3 Capas\CapaDeAccesoADatos\obj\Debug\CapaDeAccesoADatos.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Ejemplo Practico Modelo 3 Capas\CapaDeAccesoADatos\obj\Debug\CapaDeAccesoADatos.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Ejemplo Practico Modelo 3 Capas\CapaDeAccesoADatos\obj\Debug\CapaDeAccesoADatos.dll
+C:\Users\User\source\repos\Ejemplo Practico Modelo 3 Capas\CapaDeAccesoADatos\obj\Debug\CapaDeAccesoADatos.pdb
