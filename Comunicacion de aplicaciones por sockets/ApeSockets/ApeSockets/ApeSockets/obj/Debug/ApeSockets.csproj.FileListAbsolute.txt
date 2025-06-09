@@ -1,0 +1,10 @@
+C:\Users\wilson.pico\source\repos\ApeSockets\ApeSockets\bin\Debug\ApeSockets.exe.config
+C:\Users\wilson.pico\source\repos\ApeSockets\ApeSockets\bin\Debug\ApeSockets.exe
+C:\Users\wilson.pico\source\repos\ApeSockets\ApeSockets\bin\Debug\ApeSockets.pdb
+C:\Users\wilson.pico\source\repos\ApeSockets\ApeSockets\obj\Debug\ApeSockets.csproj.AssemblyReference.cache
+C:\Users\wilson.pico\source\repos\ApeSockets\ApeSockets\obj\Debug\ApeSockets.Form1.resources
+C:\Users\wilson.pico\source\repos\ApeSockets\ApeSockets\obj\Debug\ApeSockets.Properties.Resources.resources
+C:\Users\wilson.pico\source\repos\ApeSockets\ApeSockets\obj\Debug\ApeSockets.csproj.GenerateResource.cache
+C:\Users\wilson.pico\source\repos\ApeSockets\ApeSockets\obj\Debug\ApeSockets.csproj.CoreCompileInputs.cache
+C:\Users\wilson.pico\source\repos\ApeSockets\ApeSockets\obj\Debug\ApeSockets.exe
+C:\Users\wilson.pico\source\repos\ApeSockets\ApeSockets\obj\Debug\ApeSockets.pdb
