@@ -1,0 +1,97 @@
+-- Crear la base de datos (ejecutar primero)
+USE master;
+GO
+
+IF NOT EXISTS (SELECT * FROM sys.databases WHERE name = 'LibraryDB')
+BEGIN
+    CREATE DATABASE LibraryDB;
+END
+GO
+
+USE LibraryDB;
+GO
+
+-- Crear tabla Autores
+IF NOT EXISTS (SELECT * FROM sysobjects WHERE name='Autores' AND xtype='U')
+BEGIN
+    CREATE TABLE Autores (
+        Id INT PRIMARY KEY IDENTITY(1,1),
+        Nombre NVARCHAR(100) NOT NULL,
+        Apellido NVARCHAR(100) NOT NULL,
+        FechaNacimiento DATE,
+        Nacionalidad NVARCHAR(100),
+        Bibliografia NVARCHAR(MAX),
+        FechaRegistro DATETIME2 DEFAULT GETDATE(),
+        Activo BIT DEFAULT 1
+    );
+END
+GO
+
+-- Crear tabla Libros
+IF NOT EXISTS (SELECT * FROM sysobjects WHERE name='Libros' AND xtype='U')
+BEGIN
+    CREATE TABLE Libros (
+        Id INT PRIMARY KEY IDENTITY(1,1),
+        Titulo NVARCHAR(200) NOT NULL,
+        ISBN NVARCHAR(20),
+        FechaPublicacion DATE,
+        Editorial NVARCHAR(100),
+        NumeroPaginas INT,
+        Genero NVARCHAR(50),
+        Descripcion NVARCHAR(MAX),
+        FechaRegistro DATETIME2 DEFAULT GETDATE(),
+        Activo BIT DEFAULT 1
+    );
+END
+GO
+
+-- Crear tabla LibroAutor (tabla intermedia)
+IF NOT EXISTS (SELECT * FROM sysobjects WHERE name='LibroAutor' AND xtype='U')
+BEGIN
+    CREATE TABLE LibroAutor (
+        Id INT PRIMARY KEY IDENTITY(1,1),
+        LibroId INT NOT NULL,
+        AutorId INT NOT NULL,
+        FechaAsignacion DATETIME2 DEFAULT GETDATE(),
+        FOREIGN KEY (LibroId) REFERENCES Libros(Id),
+        FOREIGN KEY (AutorId) REFERENCES Autores(Id),
+        UNIQUE(LibroId, AutorId)
+    );
+END
+GO
+
+-- Insertar datos de prueba
+-- Autores
+IF NOT EXISTS (SELECT * FROM Autores)
+BEGIN
+    INSERT INTO Autores (Nombre, Apellido, FechaNacimiento, Nacionalidad, Bibliografia) VALUES
+    ('Gabriel', 'García Márquez', '1927-03-06', 'Colombiana', 'Escritor colombiano, Premio Nobel de Literatura 1982'),
+    ('Isabel', 'Allende', '1942-08-02', 'Chilena', 'Escritora chilena, una de las novelistas de mayor proyección internacional'),
+    ('Mario', 'Vargas Llosa', '1936-03-28', 'Peruana', 'Escritor peruano, Premio Nobel de Literatura 2010'),
+    ('Jorge Luis', 'Borges', '1899-08-24', 'Argentina', 'Escritor argentino, uno de los autores más destacados de la literatura del siglo XX');
+END
+GO
+
+-- Libros
+IF NOT EXISTS (SELECT * FROM Libros)
+BEGIN
+    INSERT INTO Libros (Titulo, ISBN, FechaPublicacion, Editorial, NumeroPaginas, Genero, Descripcion) VALUES
+    ('Cien años de soledad', '978-84-376-0494-7', '1967-05-30', 'Sudamericana', 471, 'Realismo mágico', 'Obra cumbre del realismo mágico y una de las novelas más importantes del siglo XX'),
+    ('La casa de los espíritus', '978-84-204-2951-0', '1982-01-01', 'Sudamericana', 448, 'Realismo mágico', 'Primera novela de Isabel Allende, un clásico del realismo mágico'),
+    ('Conversación en La Catedral', '978-84-322-0714-8', '1969-01-01', 'Seix Barral', 728, 'Narrativa', 'Una de las obras maestras de Mario Vargas Llosa'),
+    ('El Aleph', '978-84-206-3163-7', '1949-01-01', 'Losada', 224, 'Ficción', 'Colección de cuentos de Jorge Luis Borges');
+END
+GO
+
+-- Relaciones LibroAutor
+IF NOT EXISTS (SELECT * FROM LibroAutor)
+BEGIN
+    INSERT INTO LibroAutor (LibroId, AutorId) VALUES
+    (1, 1), -- Cien años de soledad - Gabriel García Márquez
+    (2, 2), -- La casa de los espíritus - Isabel Allende
+    (3, 3), -- Conversación en La Catedral - Mario Vargas Llosa
+    (4, 4); -- El Aleph - Jorge Luis Borges
+END
+GO
+
+PRINT 'Base de datos creada exitosamente con datos de prueba';

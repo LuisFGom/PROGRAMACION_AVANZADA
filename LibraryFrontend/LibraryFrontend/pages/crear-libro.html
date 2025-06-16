@@ -1,0 +1,230 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Crear Nuevo Libro - Sistema de Librería</title>
+    <link rel="stylesheet" href="../css/main.css">
+    <link rel="stylesheet" href="../css/forms.css">
+    <link rel="stylesheet" href="../css/tables.css">
+</head>
+<body>
+    <header>
+        <div class="container">
+            <div class="header-content">
+                <div class="logo">
+                    Sistema de Librería
+                </div>
+                <nav>
+                    <ul>
+                        <li><a href="../index.html">🏠 Dashboard</a></li>
+                        <li><a href="autores.html">👥 Autores</a></li>
+                        <li><a href="libros.html">📚 Libros</a></li>
+                        <li><a href="crear-autor.html">➕ Nuevo Autor</a></li>
+                        <li><a href="crear-libro.html" class="active">➕ Nuevo Libro</a></li>
+                    </ul>
+                </nav>
+            </div>
+        </div>
+    </header>
+
+    <main>
+        <div class="container">
+            <!-- Título -->
+            <div class="card">
+                <div class="card-header">
+                    <h1 class="card-title">📖 Crear Nuevo Libro</h1>
+                    <a href="libros.html" class="btn btn-secondary">
+                        ← Volver a la lista
+                    </a>
+                </div>
+                <p>Completa la información del nuevo libro que deseas agregar al sistema.</p>
+            </div>
+
+            <!-- Formulario -->
+            <div class="card">
+                <form id="form-libro" class="form-container">
+                    <!-- Información básica -->
+                    <h3>📚 Información Básica</h3>
+                    
+                    <div class="form-group">
+                        <label for="titulo" class="form-label">
+                            <strong>📖 Título del Libro *</strong>
+                        </label>
+                        <input 
+                            type="text" 
+                            id="titulo" 
+                            name="titulo" 
+                            class="form-input"
+                            placeholder="Ej: Cien años de soledad"
+                            required
+                            maxlength="200"
+                        >
+                    </div>
+
+                    <div class="form-grid">
+                        <!-- ISBN -->
+                        <div class="form-group">
+                            <label for="isbn" class="form-label">
+                                📋 ISBN
+                            </label>
+                            <input 
+                                type="text" 
+                                id="isbn" 
+                                name="isbn" 
+                                class="form-input"
+                                placeholder="Ej: 978-84-376-0494-7"
+                                maxlength="20"
+                            >
+                        </div>
+
+                        <!-- Fecha de Publicación -->
+                        <div class="form-group">
+                            <label for="fechaPublicacion" class="form-label">
+                                📅 Fecha de Publicación
+                            </label>
+                            <input 
+                                type="date" 
+                                id="fechaPublicacion" 
+                                name="fechaPublicacion" 
+                                class="form-input"
+                            >
+                        </div>
+                    </div>
+
+                    <div class="form-grid">
+                        <!-- Editorial -->
+                        <div class="form-group">
+                            <label for="editorial" class="form-label">
+                                🏢 Editorial
+                            </label>
+                            <input 
+                                type="text" 
+                                id="editorial" 
+                                name="editorial" 
+                                class="form-input"
+                                placeholder="Ej: Sudamericana"
+                                maxlength="100"
+                            >
+                        </div>
+
+                        <!-- Número de Páginas -->
+                        <div class="form-group">
+                            <label for="numeroPaginas" class="form-label">
+                                📄 Número de Páginas
+                            </label>
+                            <input 
+                                type="number" 
+                                id="numeroPaginas" 
+                                name="numeroPaginas" 
+                                class="form-input"
+                                placeholder="Ej: 471"
+                                min="1"
+                                max="10000"
+                            >
+                        </div>
+                    </div>
+
+                    <!-- Género -->
+                    <div class="form-group">
+                        <label for="genero" class="form-label">
+                            🎭 Género Literario
+                        </label>
+                        <select id="genero" name="genero" class="form-select">
+                            <option value="">-- Seleccionar Género --</option>
+                            <option value="Ficción">Ficción</option>
+                            <option value="No Ficción">No Ficción</option>
+                            <option value="Realismo mágico">Realismo mágico</option>
+                            <option value="Novela">Novela</option>
+                            <option value="Cuento">Cuento</option>
+                            <option value="Poesía">Poesía</option>
+                            <option value="Drama">Drama</option>
+                            <option value="Ensayo">Ensayo</option>
+                            <option value="Biografía">Biografía</option>
+                            <option value="Historia">Historia</option>
+                            <option value="Ciencia">Ciencia</option>
+                            <option value="Filosofía">Filosofía</option>
+                            <option value="Arte">Arte</option>
+                            <option value="Religión">Religión</option>
+                            <option value="Autoayuda">Autoayuda</option>
+                            <option value="Infantil">Infantil</option>
+                            <option value="Juvenil">Juvenil</option>
+                            <option value="Thriller">Thriller</option>
+                            <option value="Misterio">Misterio</option>
+                            <option value="Romance">Romance</option>
+                            <option value="Ciencia Ficción">Ciencia Ficción</option>
+                            <option value="Fantasía">Fantasía</option>
+                            <option value="Terror">Terror</option>
+                            <option value="Aventura">Aventura</option>
+                        </select>
+                    </div>
+
+                    <!-- Descripción -->
+                    <div class="form-group">
+                        <label for="descripcion" class="form-label">
+                            📝 Descripción / Sinopsis
+                        </label>
+                        <textarea 
+                            id="descripcion" 
+                            name="descripcion" 
+                            class="form-textarea"
+                            placeholder="Breve descripción del contenido del libro..."
+                            rows="4"
+                        ></textarea>
+                    </div>
+
+                    <!-- Selección de Autores -->
+                    <h3>👥 Autores del Libro</h3>
+                    <div class="form-group">
+                        <label class="form-label">
+                            <strong>Seleccionar Autores *</strong>
+                        </label>
+                        <p style="color: var(--secondary-color); font-size: 0.875rem; margin-bottom: 1rem;">
+                            Selecciona uno o más autores para este libro. Si no encuentras el autor, 
+                            <a href="crear-autor.html" target="_blank">créalo primero aquí</a>.
+                        </p>
+                        <div id="autores-select" class="multi-select">
+                            <div class="loading">
+                                <div class="spinner"></div>
+                                <p>Cargando autores...</p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Botones -->
+                    <div class="form-actions">
+                        <button type="button" class="btn btn-secondary" onclick="history.back()">
+                            ❌ Cancelar
+                        </button>
+                        <button type="submit" class="btn btn-success">
+                            ✅ Crear Libro
+                        </button>
+                    </div>
+                </form>
+            </div>
+
+            <!-- Información adicional -->
+            <div class="card">
+                <h3>ℹ️ Información Importante</h3>
+                <ul>
+                    <li><strong>Campos obligatorios:</strong> Título y al menos un autor son requeridos.</li>
+                    <li><strong>ISBN:</strong> Código único del libro, opcional pero recomendado.</li>
+                    <li><strong>Múltiples autores:</strong> Puedes seleccionar varios autores si el libro fue escrito en colaboración.</li>
+                    <li><strong>Géneros:</strong> Ayuda a categorizar y buscar libros más fácilmente.</li>
+                </ul>
+            </div>
+        </div>
+    </main>
+
+    <footer>
+        <div class="container">
+            <p>&copy; 2025 Sistema de Librería. Desarrollado con ❤️ para la gestión de bibliotecas.</p>
+        </div>
+    </footer>
+
+    <!-- Scripts -->
+    <script src="../js/utils.js"></script>
+    <script src="../js/api.js"></script>
+    <script src="../js/script.js"></script>
+</body>
+</html>
